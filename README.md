@@ -24,7 +24,7 @@
 2. Trên thanh công cụ, chọn **File** $\rightarrow$ **Open Project...**
 3. Điều hướng tới thư mục:
    ```
-   SUBMISSION_PACKAGE/01_Java_NetBeans/LAB2_MaHoaHienDai
+   ../01_Java_NetBeans/LAB2_MaHoaHienDai
    ```
    *(NetBeans sẽ tự động nhận diện dự án có biểu tượng Maven).*
 4. Nhấn **Open Project**.
@@ -56,7 +56,7 @@
    ```
 2. Mở Command Prompt hoặc PowerShell tại thư mục:
    ```
-   SUBMISSION_PACKAGE/03_Python/
+   ../03_Python/
    ```
 3. **Khởi chạy ứng dụng đồ họa Tkinter:**
    ```bash
